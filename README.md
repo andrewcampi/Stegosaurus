@@ -63,7 +63,7 @@ We are in! The user flag can be located on Stega’s desktop.
 $ cd Desktop
 $ cat user.txt
 
-###Privilege Escalation
+# Privilege Escalation
 To access the root flag, we need root privileges. Use the following command to gain root privileges, then use the following commands to access the root flag.
 
 $ sudo -i
