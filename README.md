@@ -59,6 +59,7 @@ The hidden message is at the bottom of the file, towards the last line. It says 
 We are in! The user flag can be located on Stega’s desktop.
 
 `$ cd Desktop`
+
 `$ cat user.txt`
 
 # Privilege Escalation
