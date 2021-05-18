@@ -36,7 +36,7 @@ Nmap reveals ssh running on port 22 and an apache web server running on port 80.
 
 
 
-<img src="assets/images/Stega.PNG" style="margin-left: 20px; zoom: 60%;" align=left />
+<img src="assets/images/Stega.PNG" style="margin-left: 20px; zoom: 60%;"/>
 
 
 
@@ -50,7 +50,7 @@ The hidden message is at the bottom of the file, towards the last line. It says 
 
 
 
-<img src="assets/images/Code.PNG" style="margin-left: 20px; zoom: 60%;" align=left />
+<img src="assets/images/Code.PNG" style="margin-left: 20px; zoom: 60%;"/>
 
 
 
@@ -69,8 +69,3 @@ To access the root flag, we need root privileges. Use the following command to g
 $ sudo -i
 $ [sudo] password for stega: Dinosaurs4Life13337
 $ cat root.txt
-
-
-
-
-# Privilege Escalation
