@@ -26,7 +26,7 @@ User: `873d55dfff433c90b42dacd4b0aa9ded`
 Root: `6aa9d2e3e276faf9e7abbba9aa53fd39`
 
 # Enumeration
-$ nmap -sV <target_ip_address>
+`$ nmap -sV <target_ip_address>`
 
 Nmap reveals ssh running on port 22 and an apache web server running on port 80. In a web browser, visiting the target’s ip address displays a very basic web page. It’s only contents are a title which says “Stega the Stegosaurus” and a picture of a stegosaurus.
 
@@ -52,17 +52,17 @@ The hidden message is at the bottom of the file, towards the last line. It says 
 
 
 
-'$ ssh stega@<target_ip_address>'
-$ password: Dinosaurs4Life13337
+`$ ssh stega@<target_ip_address>`
+`$ password: Dinosaurs4Life13337`
 
 We are in! The user flag can be located on Stega’s desktop.
 
-$ cd Desktop
-$ cat user.txt
+`$ cd Desktop`
+`$ cat user.txt`
 
 # Privilege Escalation
 To access the root flag, we need root privileges. Use the following command to gain root privileges, then use the following commands to access the root flag.
 
-$ sudo -i
-$ [sudo] password for stega: Dinosaurs4Life13337
-$ cat root.txt
+`$ sudo -i`
+`$ [sudo] password for stega: Dinosaurs4Life13337`
+`$ cat root.txt`
