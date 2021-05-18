@@ -12,8 +12,6 @@
 
 
 
-
-
 ### Description:
 
 This machine provides an introduction to steganography. Steganography is the technique of hiding secret data within an ordinary, non-secret, file or message in order to avoid detection. Similar to writing a letter in invisible ink to hide a message, steganographic images have hidden text encoded into the image that is only noticeable to those who are looking for it.
