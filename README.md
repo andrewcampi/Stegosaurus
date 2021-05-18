@@ -66,5 +66,7 @@ We are in! The user flag can be located on Stega’s desktop.
 To access the root flag, we need root privileges. Use the following command to gain root privileges, then use the following commands to access the root flag.
 
 `$ sudo -i`
+
 `$ [sudo] password for stega: Dinosaurs4Life13337`
+
 `$ cat root.txt`
