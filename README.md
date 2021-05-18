@@ -8,7 +8,6 @@
 
 ​		Machine Author(s): Andrew Campi (Campister)
 
-​		
 
 
 
