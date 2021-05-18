@@ -53,6 +53,7 @@ The hidden message is at the bottom of the file, towards the last line. It says 
 
 
 `$ ssh stega@<target_ip_address>`
+
 `$ password: Dinosaurs4Life13337`
 
 We are in! The user flag can be located on Stega’s desktop.
